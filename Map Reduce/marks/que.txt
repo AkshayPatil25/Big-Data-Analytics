@@ -1,0 +1,2 @@
+11. Find the average of marks above 60%
+22. Find average od students of class TY
